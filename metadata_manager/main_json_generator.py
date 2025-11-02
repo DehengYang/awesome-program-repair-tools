@@ -19,8 +19,8 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 这里也要记得改
 
         self.set_default_text()
 
-        self.pushButton_2.clicked.connect(self.on_clicked_2)
-        self.pushButton.clicked.connect(self.on_clicked)
+        self.pushButton_2.clicked.connect(self.on_clicked_start_parse_button)
+        self.pushButton.clicked.connect(self.on_clicked_save_as_json)
 
         self.authors, self.title, self.year = "", "", ""
 
@@ -68,7 +68,7 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 这里也要记得改
         self.lineEdit_bug_types.clear()
         self.set_default_text()
 
-    def on_clicked_2(self):
+    def on_clicked_start_parse_button(self):
         print("Parsing the entered bibtex now")
         bibtex = self.textEdit.toPlainText()
         try:
@@ -112,7 +112,7 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 这里也要记得改
                 if data_dict["Bug Types"] != "-":
                     self.lineEdit_bug_types.setText(data_dict["Bug Types"])
 
-    def on_clicked(self):
+    def on_clicked_save_as_json(self):
         # write the data to a json file
         row_dict = (
             {}
@@ -127,7 +127,10 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 这里也要记得改
         row_dict["Used Dataset"] = self.lineEdit_used_dataset.text().split(",")
         row_dict["CCF Rank"] = self.lineEdit_ccf_rank.text()
         row_dict["Paper Category"] = self.comboBox.currentText()
-        row_dict["Bibtex"] = self.textEdit.toPlainText()
+        bibtex = self.textEdit.toPlainText()
+        if "\\n" in bibtex:
+            bibtex = bibtex.replace("\\n", "\n")
+        row_dict["Bibtex"] = bibtex
 
         row_dict["Specification"] = self.lineEdit_specification.text()
         row_dict["Tool Category"] = self.lineEdit_tool_category.text()

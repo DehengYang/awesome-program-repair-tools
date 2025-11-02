@@ -23,7 +23,7 @@ import pandas as pd
 
 def main():
     json_output_dir = os.path.join(config.OUTPUT_DIR, "json")
-    json_files = glob.glob(f"{json_output_dir}/*.json")  # 获取所有 JSON 文件的路径
+    json_files = glob.glob(f"{json_output_dir}/*.json")  # get paths of all json files
 
     df_new = pd.DataFrame(
         columns=[

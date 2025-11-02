@@ -1,0 +1,24 @@
+{
+    "Title": "RepairAgent: An Autonomous, LLM-Based Agent for Program Repair",
+    "APR Tool Name": "RepairAgent",
+    "Authors": [
+        "Islem Bouzenia",
+        "Premkumar Devanbu",
+        "Michael Pradel"
+    ],
+    "Year": "2025",
+    "Venue": "ICSE",
+    "Repo URL": "",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J "
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@INPROCEEDINGS{11029914,\n  author={Bouzenia, Islem and Devanbu, Premkumar and Pradel, Michael},\n  booktitle={2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)}, \n  title={RepairAgent: An Autonomous, LLM-Based Agent for Program Repair}, \n  year={2025},\n  volume={},\n  number={},\n  pages={2188-2200},\n  keywords={Translation;Large language models;Computer bugs;Pricing;Maintenance engineering;Autonomous agents;User experience;Software;Reliability;Software engineering;ai for se;program repair;llm agents},\n  doi={10.1109/ICSE55347.2025.00157}}\n",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

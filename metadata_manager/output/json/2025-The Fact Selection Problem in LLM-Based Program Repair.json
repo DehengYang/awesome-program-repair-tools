@@ -1,0 +1,29 @@
+{
+    "Title": "The Fact Selection Problem in LLM-Based Program Repair",
+    "APR Tool Name": "Maniple",
+    "Authors": [
+        "Nikhil Parasaram",
+        "Huijie Yan",
+        "Boyu Yang",
+        "Zineb Flahy",
+        "Abriele Qudsi",
+        "Damian Ziaber",
+        "Earl T. Barr",
+        "Sergey Mechtaev"
+    ],
+    "Year": "2025",
+    "Venue": "TSE",
+    "Repo URL": "https://github.com/PyRepair/maniple",
+    "Target Language": [
+        "Python "
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@INPROCEEDINGS{11029841,\n  author={Parasaram, Nikhil and Yan, Huijie and Yang, Boyu and Flahy, Zineb and Qudsi, Abriele and Ziaber, Damian and Barr, Earl T. and Mechtaev, Sergey},\n  booktitle={2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)}, \n  title={The Fact Selection Problem in LLM-Based Program Repair}, \n  year={2025},\n  volume={},\n  number={},\n  pages={2574-2586},\n  keywords={Systematics;Large language models;Computer bugs;Semantics;Maintenance engineering;Benchmark testing;Syntactics;Software engineering;Software development management;Python;automated program repair;large language models;prompt engineering},\n  doi={10.1109/ICSE55347.2025.00162}}\n",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

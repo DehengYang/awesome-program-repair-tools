@@ -1,0 +1,25 @@
+{
+    "Title": "Hybrid automated program repair by combining large language models and program analysis",
+    "APR Tool Name": "GiantRepair",
+    "Authors": [
+        "Fengjie Li",
+        "Jiajun Jiang",
+        "Jiajun Sun",
+        "Hongyu Zhang"
+    ],
+    "Year": "2025",
+    "Venue": "TOSEM",
+    "Repo URL": "https://github.com/Feng-Jay/GiantRepair",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{li2025hybrid,\n  title={Hybrid automated program repair by combining large language models and program analysis},\n  author={Li, Fengjie and Jiang, Jiajun and Sun, Jiajun and Zhang, Hongyu},\n  journal={ACM Transactions on Software Engineering and Methodology},\n  volume={34},\n  number={7},\n  pages={1--28},\n  year={2025},\n  publisher={ACM New York, NY}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

@@ -1,0 +1,29 @@
+{
+    "Title": "{ Boosting Redundancy-Based Automated Program Repair by Fine-Grained Pattern Mining }",
+    "APR Tool Name": "REPATT ",
+    "Authors": [
+        "Jiajun Jiang",
+        "Fengjie Li",
+        "Zijie Zhao",
+        "Zhirui Ye",
+        "Mengjiao Liu",
+        "Bo Wang",
+        "Hongyu Zhang",
+        "Junjie Chen"
+    ],
+    "Year": "2025",
+    "Venue": "ICSME",
+    "Repo URL": "",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J "
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@INPROCEEDINGS {11185923, author = { Jiang, Jiajun and Li, Fengjie and Zhao, Zijie and Ye, Zhirui and Liu, Mengjiao and Wang, Bo and Zhang, Hongyu and Chen, Junjie }, booktitle = { 2025 IEEE International Conference on Software Maintenance and Evolution (ICSME) }, title = {{ Boosting Redundancy-Based Automated Program Repair by Fine-Grained Pattern Mining }}, year = {2025}, volume = {}, ISSN = {}, pages = {85-97}, abstract = { Redundancy-based automated program repair (APR), which generates patches by referencing existing source code, has gained much attention since they are effective in repairing real-world bugs with good interpretability. However, since existing approaches either demand the existence of multiline similar code or randomly reference existing code, they can only repair a small number of bugs with many incorrect patches, hindering their wide application in practice. In this work, we aim to improve the effectiveness of redundancy-based APRs by exploring more effective source code reuse methods for improving the number of correct patches and reducing incorrect patches. Specifically, we have proposed a new repair technique named REPATT, which incorporates a two-level pattern mining process for guiding effective patch generation (i.e., token and expression levels). We have conducted an extensive experiment on the widely-used Defects4J benchmark and compared Repatt with ten state-of-the-art APR approaches. The results show that it complements existing approaches by repairing 9 unique bugs compared with the latest Large Language Model (LLM)-based and deep learning-based methods and 19 unique bugs compared with traditional repair methods when providing the perfect fault localization. In addition, when the perfect fault localization is unknown in real practice, REPATT significantly outperforms the baseline approaches by achieving much higher patch precision, i.e., 83.8 %, although it repairs fewer bugs. Moreover, we further proposed an effective patch ranking strategy for combining the strength of REPATT and the baseline methods. The result shows that it repairs 124 bugs when only considering the Top-1 patches and improves the best-performing repair method by repairing 39 more bugs. The results demonstrate the effectiveness of our approach for practical use. }, keywords = {Location awareness;Learning systems;Software maintenance;Codes;Source coding;Large language models;Computer bugs;Debugging;Maintenance engineering;Data mining}, doi = {10.1109/ICSME64153.2025.00018}, url = {https://doi.ieeecomputersociety.org/10.1109/ICSME64153.2025.00018}, publisher = {IEEE Computer Society}, address = {Los Alamitos, CA, USA}, month =sep} ",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

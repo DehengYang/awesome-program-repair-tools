@@ -1,0 +1,25 @@
+{
+    "Title": "GenProgJS: A Baseline System for Test-Based Automated Repair of JavaScript Programs",
+    "APR Tool Name": "GenProgJS ",
+    "Authors": [
+        "Viktor Csuvik",
+        "Dániel Horváth",
+        "Márk Lajkó",
+        "László Vidács"
+    ],
+    "Year": "2025",
+    "Venue": "TSE",
+    "Repo URL": "https://github.com/GenProgJS",
+    "Target Language": [
+        "JavaScript"
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@ARTICLE{10759840,\n  author={Csuvik, Viktor and Horváth, Dániel and Lajkó, Márk and Vidács, László},\n  journal={IEEE Transactions on Software Engineering}, \n  title={GenProgJS: A Baseline System for Test-Based Automated Repair of JavaScript Programs}, \n  year={2025},\n  volume={51},\n  number={2},\n  pages={325-343},\n  keywords={Maintenance engineering;Computer bugs;Genetics;Java;Codes;Software development management;Source coding;Genetic operators;Software algorithms;Software;Automated program repair (APR);genetic algorithm;software debugging},\n  doi={10.1109/TSE.2024.3497798}}\n",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

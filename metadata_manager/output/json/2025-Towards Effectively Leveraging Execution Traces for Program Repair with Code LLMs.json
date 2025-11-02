@@ -8,7 +8,7 @@
         "Manuela Veloso"
     ],
     "Year": "2025",
-    "Venue": "arxiv",
+    "Venue": "ACL",
     "Repo URL": "",
     "Target Language": [
         "Java",
@@ -19,9 +19,9 @@
         " HumanEval-Java",
         " RunBugRun"
     ],
-    "CCF Rank": "other",
+    "CCF Rank": "A",
     "Paper Category": "Tool Design",
-    "Bibtex": "@article{haque2025towards,\n  title={Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs},\n  author={Haque, Mirazul and Babkin, Petr and Farmahinifarahani, Farima and Veloso, Manuela},\n  journal={arXiv preprint arXiv:2505.04441},\n  year={2025}\n}",
+    "Bibtex": "@inproceedings{haque-etal-2025-towards,\n    title = \"Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs\",\n    author = \"Haque, Mirazul  and\n      Babkin, Petr  and\n      Farmahinifarahani, Farima  and\n      Veloso, Manuela\",\n    editor = \"Shi, Weijia  and\n      Yu, Wenhao  and\n      Asai, Akari  and\n      Jiang, Meng  and\n      Durrett, Greg  and\n      Hajishirzi, Hannaneh  and\n      Zettlemoyer, Luke\",\n    booktitle = \"Proceedings of the 4th International Workshop on Knowledge-Augmented Methods for Natural Language Processing\",\n    month = may,\n    year = \"2025\",\n    address = \"Albuquerque, New Mexico, USA\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://aclanthology.org/2025.knowledgenlp-1.17/\",\n    doi = \"10.18653/v1/2025.knowledgenlp-1.17\",\n    pages = \"160--179\",\n    ISBN = \"979-8-89176-229-9\",\n    abstract = \"Large Language Models (LLMs) show promising performance on various programming tasks, including Automatic Program Repair (APR).However, most approaches to LLM-based APR are limited to the static analysis of the programs, while disregarding their runtime behavior.Inspired by knowledge-augmented NLP, in this work, we aim to remedy this potential blind spot by augmenting standard APR prompts with program execution traces.We evaluate our approach using the GPT family of models on three popular APR datasets. Our findings suggest that simply incorporating execution traces into the prompt provides a limited performance improvement over trace-free baselines, in only 2 out of 6 tested dataset/model configurations. We further find that the effectiveness of execution traces for APR diminishes as their complexity increases. We explore several strategies for leveraging traces in promptsand demonstrate that LLM-optimized prompts help outperform trace-free prompts more consistently.Additionally, we show trace-based prompting to be superior to finetuning a smaller LLM on a small-scale dataset; and conduct probing studies reinforcing the notion that execution traces can complement the reasoning abilities of the LLMs.\"\n}",
     "Specification": "",
     "Tool Category": "",
     "Bug Types": ""
