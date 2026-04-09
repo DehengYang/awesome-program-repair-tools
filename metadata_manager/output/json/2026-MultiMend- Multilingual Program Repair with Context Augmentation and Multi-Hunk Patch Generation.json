@@ -1,0 +1,30 @@
+{
+  "Title": "MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation",
+  "APR Tool Name": "MultiMend",
+  "Authors": [
+    "Reza Gharibi",
+    "Mohammad Hadi Sadreddini",
+    "Seyed Mostafa Fakhrahmad"
+  ],
+  "Year": 2026,
+  "Venue": "Automated Software Engineering",
+  "Repo URL": "https://github.com/h4iku/MultiMend",
+  "Target Language": [
+    "Java",
+    " Python",
+    " C",
+    " JavaScript"
+  ],
+  "Used Dataset": [
+    "Defects4J",
+    " QuixBugs",
+    " Codeflaws",
+    " BugAID"
+  ],
+  "CCF Rank": "B",
+  "Paper Category": "Tool Design",
+  "Bibtex": "@article{Gharibi_2026, title={MultiMend: multilingual program repair with context augmentation and multi-hunk patch generation}, volume={33}, ISSN={1573-7535}, url={http://dx.doi.org/10.1007/s10515-026-00611-2}, DOI={10.1007/s10515-026-00611-2}, number={2}, journal={Automated Software Engineering}, publisher={Springer Science and Business Media LLC}, author={Gharibi, Reza and Sadreddini, Mohammad Hadi and Fakhrahmad, Seyed Mostafa}, year={2026}, month=mar }",
+  "Specification": "test",
+  "Tool Category": "llm-based",
+  "Bug Types": "general bugs"
+}

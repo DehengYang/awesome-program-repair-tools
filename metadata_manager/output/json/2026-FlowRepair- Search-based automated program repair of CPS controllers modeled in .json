@@ -1,0 +1,19 @@
+{
+  "Title": "FlowRepair: Search-based automated program repair of CPS controllers modeled in Simulink-Stateflow",
+  "Year": 2026,
+  "Venue": "Information and Software Technology",
+  "Link": "https://doi.org/10.1016/j.infsof.2025.108010",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "",
+  "DOI": "10.1016/j.infsof.2025.108010",
+  "Authors": [
+    "Aitor Arrieta",
+    "Pablo Valle",
+    "Shaukat Ali"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

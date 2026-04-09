@@ -49,20 +49,20 @@ def main():
         with open(json_file, "r", encoding="utf-8") as f:
             data_dict = json.load(f)
             df_new.loc[len(df_new)] = [
-                data_dict["Title"],
-                data_dict["APR Tool Name"],
-                data_dict["Authors"],
-                int(data_dict["Year"]),
-                data_dict["Venue"],
-                data_dict["Repo URL"],
-                data_dict["Target Language"],
-                data_dict["Used Dataset"],
-                data_dict["CCF Rank"],
-                data_dict["Paper Category"],
-                data_dict["Bibtex"],
-                data_dict["Specification"],
-                data_dict["Tool Category"],
-                data_dict["Bug Types"],
+                data_dict.get("Title", ""),
+                data_dict.get("APR Tool Name", ""),
+                data_dict.get("Authors", ""),
+                int(data_dict.get("Year", 0)),
+                data_dict.get("Venue", ""),
+                data_dict.get("Repo URL", ""),
+                data_dict.get("Target Language", ""),
+                data_dict.get("Used Dataset", ""),
+                data_dict.get("CCF Rank", ""),
+                data_dict.get("Paper Category", ""),
+                data_dict.get("Bibtex", ""),
+                data_dict.get("Specification", ""),
+                data_dict.get("Tool Category", ""),
+                data_dict.get("Bug Types", ""),
             ]
     df_new.sort_values(
         by=["Year", "Title"], ascending=False, inplace=True, ignore_index=True

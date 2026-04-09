@@ -1,0 +1,28 @@
+{
+  "Title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2604.01007v2",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "AI agents increasingly operate over extended time horizons, yet their ability to retain, organize, and recall multimodal experiences remains a critical bottleneck. Building effective lifelong memory requires navigating a vast design space spanning architecture, retrieval strategies, prompt engineering, and data pipelines; this space is too large and interconnected for manual exploration or traditional AutoML to explore effectively. We deploy an autonomous research pipeline to discover Omni-Simpl",
+  "DOI": null,
+  "Authors": [
+    "Jiaqi Liu",
+    "Zipeng Ling",
+    "Shi Qiu",
+    "Yanqing Liu",
+    "Siwei Han",
+    "Peng Xia",
+    "Haoqin Tu",
+    "Zeyu Zheng",
+    "Cihang Xie",
+    "Charles Fleming",
+    "Mingyu Ding",
+    "Huaxiu Yao"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}

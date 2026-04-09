@@ -1,0 +1,21 @@
+{
+  "Title": "Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2603.29067v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Repository-level automated program repair (APR) increasingly treats stronger localization as the main path to better repair. We ask a more targeted question: once localization is strengthened, which post-localization levers still provide recoverable gains, which are bounded within our protocol, and what residual frontier remains? We study this question on SWE-bench Lite with three representative repository-level RAG-APR paradigms, Agentless, KGCompass, and ExpeRepair. Our protocol combines Oracl",
+  "DOI": null,
+  "Authors": [
+    "Pengtao Zhao",
+    "Boyang Yang",
+    "Bach Le",
+    "Feng Liu",
+    "Haoye Tian"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}

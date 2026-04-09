@@ -1,0 +1,17 @@
+{
+  "Title": "Research on Dialogue Generation of Emotion Enhanced Large Language Model Based on Deep Learning",
+  "Year": 2026,
+  "Venue": "Journal of Computer Science and Artificial Intelligence",
+  "Link": "https://doi.org/10.54097/dv6m2r02",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "As the scenarios of human-computer interaction in China's social development have gradually expanded and giant artificial intelligences (GIIs) have become more frequent, making users feel better through emotional identification and empathic responses has become increasingly significant. Although the current generation of models can achieve precise semantic encoding, they usually face more prominent issues such as emotion-recognition bias and rigid responses; In terms of multi-turn dialogues, the",
+  "DOI": "10.54097/dv6m2r02",
+  "Authors": [
+    "Xu Wang"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

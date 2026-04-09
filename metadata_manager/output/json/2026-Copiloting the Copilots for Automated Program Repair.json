@@ -1,0 +1,19 @@
+{
+  "Title": "Copiloting the Copilots for Automated Program Repair",
+  "Year": 2026,
+  "Venue": "Communications of the ACM",
+  "Link": "https://doi.org/10.1145/3788082",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "During Automated Program Repair (APR), it can be challenging to synthesize correct patches for real-world systems in general-purpose programming languages. Recent large language models (LLMs) have been shown to be helpful “copilots” in assisting developers with various coding tasks, and have also been directly applied for patch synthesis. However, most LLMs treat programs as sequences of tokens, meaning that they are ignorant of the underlying semantics constraints of the target programming lang",
+  "DOI": "10.1145/3788082",
+  "Authors": [
+    "Yuxiang Wei",
+    "Chunqiu Steven Xia",
+    "Lingming Zhang"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

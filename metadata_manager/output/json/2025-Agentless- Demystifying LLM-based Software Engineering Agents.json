@@ -1,0 +1,25 @@
+{
+  "Title": "Agentless: Demystifying LLM-based Software Engineering Agents",
+  "APR Tool Name": "Agentless",
+  "Authors": [
+    "Chunqiu Steven Xia",
+    "Yinlin Deng",
+    "Soren Dunn",
+    "Lingming Zhang"
+  ],
+  "Year": 2025,
+  "Venue": "ACM ESEC/FSE 2025",
+  "Repo URL": "https://github.com/OpenAutoCoder/Agentless",
+  "Target Language": [
+    "Python"
+  ],
+  "Used Dataset": [
+    "SWE-bench"
+  ],
+  "CCF Rank": "other",
+  "Paper Category": "-",
+  "Bibtex": "@article{Xia_2025, title={Demystifying LLM-Based Software Engineering Agents}, volume={2}, ISSN={2994-970X}, url={http://dx.doi.org/10.1145/3715754}, DOI={10.1145/3715754}, number={FSE}, journal={Proceedings of the ACM on Software Engineering}, publisher={Association for Computing Machinery (ACM)}, author={Xia, Chunqiu Steven and Deng, Yinlin and Dunn, Soren and Zhang, Lingming}, year={2025}, month=jun, pages={801–824} }",
+  "Specification": "-",
+  "Tool Category": "-",
+  "Bug Types": "-"
+}

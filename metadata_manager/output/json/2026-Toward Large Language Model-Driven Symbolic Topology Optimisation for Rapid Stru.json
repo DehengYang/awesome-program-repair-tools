@@ -1,0 +1,17 @@
+{
+  "Title": "Toward Large Language Model-Driven Symbolic Topology Optimisation for Rapid Structural Concept Generation in Manufacturable Design",
+  "Year": 2026,
+  "Venue": "Journal of Manufacturing and Materials Processing",
+  "Link": "https://doi.org/10.3390/jmmp10040117",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Topology optimisation is a powerful methodology for identifying efficient material distributions within prescribed design domains. However, conventional approaches rely heavily on gradient-based optimisation and repeated numerical simulations, which impose significant computational cost and limit their use in early-stage design exploration. This work introduces a generative design framework, referred to as Large Language Model-Driven Symbolic Topology Optimisation (LLM-DSTO), in which large lang",
+  "DOI": "10.3390/jmmp10040117",
+  "Authors": [
+    "Musaddiq Al Ali"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

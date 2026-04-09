@@ -1,0 +1,17 @@
+{
+  "Title": "Developing an Integrated Large Language Model (LLM) for Comprehensive Crop Advisory in Ontario",
+  "Year": 2026,
+  "Venue": "Rural Review: Ontario Rural Planning, Development, and Policy",
+  "Link": "https://doi.org/10.21083/ruralreview.v10i1.9141",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Artificial Intelligence tools such as Large Language Models, e.g., ChatGPT and Gemini, are reshaping information access, yet current systems lack the technical accuracy and regional awareness required for professional agricultural extension and advisory services. This study examines the development of a localized LLM tool designed specifically for Ontario agronomic advisors. By integrating AI with a curated database of Ontario-specific knowledge sources, the project leverages smart search techno",
+  "DOI": "10.21083/ruralreview.v10i1.9141",
+  "Authors": [
+    "Uduak Ita Edet"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

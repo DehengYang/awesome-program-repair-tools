@@ -1,25 +1,25 @@
 {
-    "Title": "Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing",
-    "APR Tool Name": "GUIRepair",
-    "Authors": [
-        "Kai Huang",
-        "Jian Zhang",
-        "Xiaofei Xie",
-        "Chunyang Chen"
-    ],
-    "Year": "2025",
-    "Venue": "arxiv",
-    "Repo URL": "",
-    "Target Language": [
-        "JavaScript"
-    ],
-    "Used Dataset": [
-        "SWE-bench M"
-    ],
-    "CCF Rank": "other",
-    "Paper Category": "Tool Design",
-    "Bibtex": "@article{huang2025seeing,\n  title={Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing},\n  author={Huang, Kai and Zhang, Jian and Xie, Xiaofei and Chen, Chunyang},\n  journal={arXiv preprint arXiv:2506.16136},\n  year={2025}\n}",
-    "Specification": "issue",
-    "Tool Category": "llm-based",
-    "Bug Types": "visual issues"
+  "Title": "Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing",
+  "APR Tool Name": "GUIRepair",
+  "Authors": [
+    "Kai Huang",
+    "Jian Zhang",
+    "Xiaofei Xie",
+    "Chunyang Chen"
+  ],
+  "Year": "2025",
+  "Venue": "ASE 2025",
+  "Repo URL": "",
+  "Target Language": [
+    "JavaScript"
+  ],
+  "Used Dataset": [
+    "SWE-bench M"
+  ],
+  "CCF Rank": "other",
+  "Paper Category": "Tool Design",
+  "Bibtex": "@inproceedings{Huang_2025, title={Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair}, url={http://dx.doi.org/10.1109/ase63991.2025.00100}, DOI={10.1109/ase63991.2025.00100}, booktitle={2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)}, publisher={IEEE}, author={Huang, Kai and Zhang, Jian and Xie, Xiaofei and Chen, Chunyang}, year={2025}, month=nov, pages={1156–1168} }",
+  "Specification": "issue",
+  "Tool Category": "llm-based",
+  "Bug Types": "visual issues"
 }

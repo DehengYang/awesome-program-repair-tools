@@ -1,0 +1,27 @@
+{
+  "Title": "Explainable Automated Debugging via Large Language Model-driven Scientific Debugging",
+  "APR Tool Name": "AutoSD",
+  "Authors": [
+    "Sungmin Kang",
+    "Bei Chen",
+    "Shin Yoo",
+    "Jian-Guang Lou"
+  ],
+  "Year": 2024,
+  "Venue": "Empirical Software Engineering",
+  "Repo URL": "-",
+  "Target Language": [
+    "Java",
+    "Python"
+  ],
+  "Used Dataset": [
+    "Defects4J",
+    "BugsInPy"
+  ],
+  "CCF Rank": "Other",
+  "Paper Category": "-",
+  "Bibtex": "@article{Kang_2024, title={Explainable automated debugging via large language model-driven scientific debugging}, volume={30}, ISSN={1573-7616}, url={http://dx.doi.org/10.1007/s10664-024-10594-x}, DOI={10.1007/s10664-024-10594-x}, number={2}, journal={Empirical Software Engineering}, publisher={Springer Science and Business Media LLC}, author={Kang, Sungmin and Chen, Bei and Yoo, Shin and Lou, Jian-Guang}, year={2024}, month=dec }",
+  "Specification": "-",
+  "Tool Category": "-",
+  "Bug Types": "-"
+}

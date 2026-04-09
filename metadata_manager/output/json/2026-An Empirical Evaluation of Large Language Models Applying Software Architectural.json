@@ -1,0 +1,20 @@
+{
+  "Title": "An Empirical Evaluation of Large Language Models Applying Software Architectural Patterns",
+  "Year": 2026,
+  "Venue": "MDPI AG",
+  "Link": "https://doi.org/10.20944/preprints202603.2486.v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Except for coding, Large Language Models (LLMs) are increasingly explored as assistants for software design and architectural tasks. However, it remains unclear to what extent LLMs can reliably apply explicitly requested software architectural patterns when provided with user-defined specific requirements. In this paper, we empirically evaluate the ability of multiple LLMs to instantiate specific architectural styles under controlled conditions. We conduct a series of experiments in which models",
+  "DOI": "10.20944/preprints202603.2486.v1",
+  "Authors": [
+    "Christos Hadjichristofi",
+    "Michail Tsilimigkounakis",
+    "Georgios Sotiropoulos",
+    "Vassilios Vescoukis"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

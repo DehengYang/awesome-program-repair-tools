@@ -1,0 +1,17 @@
+{
+  "Title": "Construction, Validation and Performance Comparison of a Large Language Model Agent for Type 1 Diabetes Self-Management Support Among Adolescents: A Development Study (Preprint)",
+  "Year": 2026,
+  "Venue": "JMIR Publications Inc.",
+  "Link": "https://doi.org/10.2196/preprints.96816",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "BACKGROUND\n                  Adolescents with type 1 diabetes require evidence-based and context-aware self-management support. General-purpose large language models (LLMs) lack integration with systematically synthesized and appraised evidence or contextual tailoring.\n                \n                \n                  OBJECTIVE\n                  We developed and validated a specialized LLM agent, T1DiaBot, using Retrieval-Augmented Generation, for providing evidence-based, culturally tailored ",
+  "DOI": "10.2196/preprints.96816",
+  "Authors": [
+    "Jundi Yang"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

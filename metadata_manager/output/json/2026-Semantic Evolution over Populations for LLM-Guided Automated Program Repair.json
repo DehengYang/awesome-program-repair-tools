@@ -1,0 +1,20 @@
+{
+  "Title": "Semantic Evolution over Populations for LLM-Guided Automated Program Repair",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2604.02134v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Large language models (LLMs) have recently shown strong potential for automated program repair (APR), particularly through iterative refinement that generates and improves candidate patches. However, state-of-the-art iterative refinement LLM-based APR approaches cannot fully address challenges, including maintaining useful diversity among repair hypotheses, identifying semantically related repair families, composing complementary partial fixes, exploiting structured failure information, and esca",
+  "DOI": null,
+  "Authors": [
+    "Cuong Chi Le",
+    "Minh Le-Anh",
+    "Cuong Duc Van",
+    "Tien N. Nguyen"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}

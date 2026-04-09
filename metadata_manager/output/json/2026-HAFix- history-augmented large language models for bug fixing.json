@@ -1,0 +1,21 @@
+{
+  "Title": "HAFix: history-augmented large language models for bug fixing",
+  "Year": 2026,
+  "Venue": "Empirical Software Engineering",
+  "Link": "https://doi.org/10.1007/s10664-026-10833-3",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "",
+  "DOI": "10.1007/s10664-026-10833-3",
+  "Authors": [
+    "Yu Shi",
+    "Abdul Ali Bangash",
+    "Emad Fallahzadeh",
+    "Bram Adams",
+    "Ahmed E. Hassan"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

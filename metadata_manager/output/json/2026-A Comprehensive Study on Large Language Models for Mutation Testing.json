@@ -1,0 +1,23 @@
+{
+  "Title": "A Comprehensive Study on Large Language Models for Mutation Testing",
+  "Year": 2026,
+  "Venue": "ACM Transactions on Software Engineering and Methodology",
+  "Link": "https://doi.org/10.1145/3805038",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "A",
+  "Abstract": "Large Language Models (LLMs) have recently been used to generate mutants both in the research community and in industrial practice. However, there has been no comprehensive empirical study of their performance for this increasingly important LLM-based Software Engineering application. To address this, we conduct a comprehensive empirical study evaluating both a wide range of traditional approaches and LLM-based approaches. Particularly, we evaluate BugFarm, LLMorpheus, and our newly designed pro",
+  "DOI": "10.1145/3805038",
+  "Authors": [
+    "Bo Wang",
+    "Mingda Chen",
+    "Ming Deng",
+    "Youfang Lin",
+    "Mark Harman",
+    "Mike Papadakis",
+    "Jie M. Zhang"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

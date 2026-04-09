@@ -1,0 +1,17 @@
+{
+  "Title": "CP-LLM: Conformal Calibration for Time Series Interval Forecasting with Frozen Large Language Model",
+  "Year": 2026,
+  "Venue": "Springer Science and Business Media LLC",
+  "Link": "https://doi.org/10.21203/rs.3.rs-9291769/v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Abstract\n                Reliable prediction intervals are essential for deploying time-series forecasting systems in high-stakes domains, yet uncertainty estimates from frozen large language models (LLMs) often deviate from nominal confidence levels. This paper studies interval calibration for multi-step forecasting with frozen LLMs and proposes CP-LLM, a fine-tuning-free two-stage post-hoc framework. In Stage 1, base intervals are constructed from sampled LLM forecasts and augmented with three",
+  "DOI": "10.21203/rs.3.rs-9291769/v1",
+  "Authors": [
+    "Ke Li"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

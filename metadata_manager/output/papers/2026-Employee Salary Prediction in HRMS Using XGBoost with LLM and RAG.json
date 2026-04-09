@@ -1,0 +1,18 @@
+{
+  "Title": "Employee Salary Prediction in HRMS Using XGBoost with LLM and RAG",
+  "Year": 2026,
+  "Venue": "Research Digest on Engineering Management and Social Innovations",
+  "Link": "https://doi.org/10.46647/icetetas054",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Accurate Salary Prediction is one of the key features of modern Human Resource Management Systems (HRMS). However, most traditional approaches often have limited ability to model the complex relationships between an employee’s attributes and the resulting salary. This work aims to develop an efficient Machine Learning-based salary prediction system utilizing XGBoost regression algorithm along with a Large Language Model (LLM) and Retrieval-Augmented Generation (RAG) for producing final salary pr",
+  "DOI": "10.46647/icetetas054",
+  "Authors": [
+    "R. Sravani",
+    "K. Renna"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

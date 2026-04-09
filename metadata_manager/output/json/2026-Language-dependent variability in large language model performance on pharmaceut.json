@@ -1,0 +1,23 @@
+{
+  "Title": "Language-dependent variability in large language model performance on pharmaceutical knowledge tasks",
+  "Year": 2026,
+  "Venue": "Springer Science and Business Media LLC",
+  "Link": "https://doi.org/10.21203/rs.3.rs-9217016/v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Abstract\n                Large language models (LLMs) are increasingly being considered for applications in healthcare systems. However, their reliability across languages has not been fully examined. In this study, we investigated language-dependent differences in LLM performance on pharmaceutical knowledge questions using datasets derived from Japanese professional examinations. A total of 32 open-weight LLMs were evaluated using the Japanese test questions and their English translations of th",
+  "DOI": "10.21203/rs.3.rs-9217016/v1",
+  "Authors": [
+    "Hiroto Asano",
+    "Yu-Shi Tian",
+    "Asuka Hatabu",
+    "Minako Ohishi",
+    "Kaori Fukuzawa",
+    "Daisuke Takaya",
+    "Kenji Ikeda"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

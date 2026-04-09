@@ -1,0 +1,19 @@
+{
+  "Title": "Semantic Bridges for Student Modeling: Leveraging LLM-Generated Narratives for Interpretable Representation Learning",
+  "Year": 2026,
+  "Venue": "Center for Open Science",
+  "Link": "https://doi.org/10.35542/osf.io/vscmr_v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Student modeling plays a central role in adaptive learning systems. However, current methods often require a trade-off between representational richness and interpretability. Traditional feature engineering produces interpretable but semantically shallow representations, while deep learning methods achieve rich embeddings at the cost of explainability. We propose a framework that utilizes Large Language Model (LLM)-generated narratives as semantic bridges between structured educational data and ",
+  "DOI": "10.35542/osf.io/vscmr_v1",
+  "Authors": [
+    "Wei Qiu",
+    "Jiawei Li",
+    "Fun Siong Lim"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

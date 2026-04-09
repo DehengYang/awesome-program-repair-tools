@@ -1,0 +1,21 @@
+{
+  "Title": "LANTERN: TCR-peptide binding prediction\n                    <i>via</i>\n                    large language model representations",
+  "Year": 2026,
+  "Venue": "PeerJ",
+  "Link": "https://doi.org/10.7717/peerj.20980",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Predicting T-cell receptor (TCR) and peptide-major histocompatibility complex (pMHC) interactions is critical for advancing targeted immunotherapies and personalized medicine. However, existing models often struggle with limited labeled data and poor generalization to novel epitopes. We present LANTERN (Large lAnguage model-powered TCR-Enhanced Recognition Network), a novel deep learning framework that combines pretrained protein and molecular language models with a cross-modality fusion mechani",
+  "DOI": "10.7717/peerj.20980",
+  "Authors": [
+    "Cong Qi",
+    "Hanzhang Fang",
+    "Siqi Jiang",
+    "Tianxing Hu",
+    "Zhi Wei"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

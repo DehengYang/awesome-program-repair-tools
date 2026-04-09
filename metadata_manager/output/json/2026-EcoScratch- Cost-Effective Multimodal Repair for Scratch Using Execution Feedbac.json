@@ -1,0 +1,21 @@
+{
+  "Title": "EcoScratch: Cost-Effective Multimodal Repair for Scratch Using Execution Feedback",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2603.29624v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Scratch is the most popular programming environment for novices, with over 1.15 billion projects created worldwide. Unlike traditional languages, correctness in Scratch is defined by visible behavior on the stage rather than by code structure alone, so programs that appear correct in the workspace can still fail at runtime due to timing, event ordering, or cross-sprite interactions. Visual execution evidence such as gameplay videos can therefore be essential for diagnosis and repair. However, ca",
+  "DOI": null,
+  "Authors": [
+    "Yuan Si",
+    "Ming Wang",
+    "Daming Li",
+    "Hanyuan Shi",
+    "Jialu Zhang"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "A Study on the Impact of Fault localization Granularity for Repository-Scale Code Repair Tasks",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2604.00167v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Automatic program repair can be a challenging task, especially when resolving complex issues at a repository-level, which often involves issue reproduction, fault localization, code repair, testing and validation. Issues of this scale can be commonly found in popular GitHub repositories or datasets that are derived from them. Some repository-level approaches separate localization and repair into distinct phases. Where this is the case, the fault localization approaches vary in terms of the granu",
+  "DOI": null,
+  "Authors": [
+    "Joseph Townsend",
+    "Chandresh Pravin",
+    "Kwun Ho Ngan",
+    "Matthieu Parizy"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}

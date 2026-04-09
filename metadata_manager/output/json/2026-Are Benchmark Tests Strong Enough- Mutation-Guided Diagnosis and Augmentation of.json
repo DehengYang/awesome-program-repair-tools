@@ -1,0 +1,22 @@
+{
+  "Title": "Are Benchmark Tests Strong Enough? Mutation-Guided Diagnosis and Augmentation of Regression Suites",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2604.01518v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Benchmarks driven by test suites, notably SWE-bench, have become the de facto standard for measuring the effectiveness of automated issue-resolution agents: a generated patch is accepted whenever it passes the accompanying regression tests. In practice, however, insufficiently strong test suites can admit plausible yet semantically incorrect patches, inflating reported success rates. We introduce STING, a framework for targeted test augmentation that uses semantically altered program variants as",
+  "DOI": null,
+  "Authors": [
+    "Chenglin Li",
+    "Yisen Xu",
+    "Zehao Wang",
+    "Shin Hwei Tan",
+    " Tse-Hsun",
+    " Chen"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Shapley-Guided Neural Repair Approach via Derivative-Free Optimization",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2604.00422v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "DNNs are susceptible to defects like backdoors, adversarial attacks, and unfairness, undermining their reliability. Existing approaches mainly involve retraining, optimization, constraint-solving, or search algorithms. However, most methods rely on gradient calculations, restricting applicability to specific activation functions (e.g., ReLU), or use search algorithms with uninterpretable localization and repair. Furthermore, they often lack generalizability across multiple properties. We propose",
+  "DOI": null,
+  "Authors": [
+    "Xinyu Sun",
+    "Wanwei Liu",
+    "Haoang Chi",
+    "Tingyu Chen",
+    "Xiaoguang Mao",
+    "Shangwen Wang",
+    "Lei Bu",
+    "Jingyi Wang",
+    "Yang Tan",
+    "Zhenyi Qi"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}

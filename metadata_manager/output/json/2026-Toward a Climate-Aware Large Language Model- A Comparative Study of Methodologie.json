@@ -1,0 +1,21 @@
+{
+  "Title": "Toward a Climate-Aware Large Language Model: A Comparative Study of Methodologies for Source-Grounded  Large Language Models",
+  "Year": 2026,
+  "Venue": "Copernicus GmbH",
+  "Link": "https://doi.org/10.5194/egusphere-egu26-12821",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "LLMs can effectively simplify complex textual information, yet their application in scientific domains, particularly climate science, remains limited. Climate research relies on dense, technical documents such as assessment reports that are difficult to navigate for non-specialists and time-constrained experts. We have explored the development of a climate-aware LLM that enhances access to such materials by balancing conversational fluency with strict grounding in trustworthy geoscientific sourc",
+  "DOI": "10.5194/egusphere-egu26-12821",
+  "Authors": [
+    "Mayssa Kchaou",
+    "Hernan Andres Gonzalez Gongora",
+    "Alicia Chimeno Sarabia",
+    "Francisco Doblas-Reyes",
+    "Amanda Cardoso Duarte"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

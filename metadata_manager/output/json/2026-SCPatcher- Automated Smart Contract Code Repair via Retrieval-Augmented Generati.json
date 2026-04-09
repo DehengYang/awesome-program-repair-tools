@@ -1,0 +1,20 @@
+{
+  "Title": "SCPatcher: Automated Smart Contract Code Repair via Retrieval-Augmented Generation and Knowledge Graph",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2604.00687v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Smart contract vulnerabilities can cause substantial financial losses due to the immutability of code after deployment. While existing tools detect vulnerabilities, they cannot effectively repair them. In this paper, we propose SCPatcher, a framework that combines retrieval-augmented generation with a knowledge graph for automated smart contract repair. We construct a knowledge graph from 5,000 verified Ethereum contracts, extracting function-level relationships to build a semantic network. This",
+  "DOI": null,
+  "Authors": [
+    "Xiaoqi Li",
+    "Shipeng Ye",
+    "Wenkai Li",
+    "Zongwei Li"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}

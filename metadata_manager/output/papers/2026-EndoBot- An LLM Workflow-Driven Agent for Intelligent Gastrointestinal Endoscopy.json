@@ -1,0 +1,26 @@
+{
+  "Title": "EndoBot: An LLM Workflow-Driven Agent for Intelligent Gastrointestinal Endoscopy Consultation",
+  "Year": 2026,
+  "Venue": "Springer Science and Business Media LLC",
+  "Link": "https://doi.org/10.21203/rs.3.rs-8510714/v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Abstract\n                Background\n Gastrointestinal endoscopy plays an irreplaceable and critical role in the early screening and diagnosis of tumors, and a standardized endoscopic examination procedure is essential for ensuring the quality of the procedure. Patient education regarding gastrointestinal (GI) endoscopy procedures—such as colonoscopy and gastroscopy—requires access to accurate, up-to-date information on preparation, risks, and post-procedure care. While large language models (LLM",
+  "DOI": "10.21203/rs.3.rs-8510714/v1",
+  "Authors": [
+    "Shiming Zhou",
+    "Bo Feng",
+    "Shulin Zhang",
+    "Weiqi Zhang",
+    "Qi Cui",
+    "Youge Qu",
+    "Jianxing Gao",
+    "Haoyu Wang",
+    "Jin Zhou",
+    "Xuan Jiang"
+  ],
+  "Source": "CrossRef",
+  "Added Date": "2026-04-03"
+}

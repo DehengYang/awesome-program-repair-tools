@@ -1,0 +1,21 @@
+{
+  "Title": "SemLoc: Structured Grounding of Free-Form LLM Reasoning for Fault Localization",
+  "Year": 2026,
+  "Venue": "arXiv",
+  "Link": "http://arxiv.org/abs/2603.29109v1",
+  "APR Tool Name": "",
+  "Target Language": [],
+  "Used Dataset": [],
+  "CCF Rank": "Other",
+  "Abstract": "Fault localization identifies program locations responsible for observed failures. Existing techniques rank suspicious code using syntactic spectra--signals derived from execution structure such as statement coverage, control-flow divergence, or dependency reachability. These signals collapse for semantic bugs, where failing and passing executions follow identical code paths and differ only in whether semantic intent is satisfied. Recent LLM-based approaches introduce semantic reasoning but prod",
+  "DOI": null,
+  "Authors": [
+    "Zhaorui Yang",
+    "Haichao Zhu",
+    "Qian Zhang",
+    "Rajiv Gupta",
+    "Ashish Kundu"
+  ],
+  "Source": "arXiv",
+  "Added Date": "2026-04-03"
+}
